@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1711696749 source:d:\luyen_sdl_ltnc\begining_sdl\main.cpp
+	<queue>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"graphics.h"
+	"def.h"
+	"game.h"
+	"column.h"
+	"Collition.h"
+
+1711037648 d:\luyen_sdl_ltnc\begining_sdl\def.h
+
+1711623603 d:\luyen_sdl_ltnc\begining_sdl\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"def.h"
+
+1709819749 source:d:\sdl\btvn\baitaptuan4.cpp
+
+1711696406 d:\luyen_sdl_ltnc\begining_sdl\game.h
+	<SDL.h>
+	"graphics.h"
+	"column.h"
+	"Collition.h"
+
+1711008187 source:d:\luyen_sdl_ltnc\begining_sdl\collition.cpp
+	"Collition.h"
+
+1711018554 d:\luyen_sdl_ltnc\begining_sdl\collition.h
+	<SDL.h>
+
+1711042154 source:d:\luyen_sdl_ltnc\begining_sdl\column.cpp
+	"column.h"
+	"graphics.h"
+	<queue>
+
+1711038488 d:\luyen_sdl_ltnc\begining_sdl\column.h
+	<queue>
+	<SDL.h>
+
